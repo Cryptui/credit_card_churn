@@ -28,12 +28,10 @@ The EDA notebook explores customer data, examining relationships between ClientN
 
 Two classification models are trained using various oversampling techniques to handle class imbalance:
 - **Evaluation Metrics:** Confusion matrices, ROC curves, and precision-recall scores are calculated to measure model accuracy, recall, and F1-scores.
-- **K-Fold Cross-Validation:** Ensures model robustness and consistency.
 
 ## 📊 Clustering Analysis <a name="clustering-analysis"></a>
 
 - **KMeans Clustering:** Identifies key customer segments using relevant features.
-- **DBSCAN Clustering:** Finds clusters while identifying noise/outlier data points for further analysis.
 - **Visualizations:** Histograms and scatter plots illustrate the distinct customer clusters.
 
 ## 🎯 Project Objectives <a name="project-objectives"></a>
@@ -48,8 +46,6 @@ The original dataset is publicly available at Kaggle's Credit Card Churn dataset
 ## 🌐 Visuals & Contributors <a name="visuals-and-contributors"></a>
 
 The project includes comprehensive visualizations in both the EDA and Analysis notebooks.
-
-**Maintainers:** If you have any questions or need support, reach out to `Your Name`.
 
 ## Maintainers 👷‍♂️ <a name="maintainers"></a>
 
