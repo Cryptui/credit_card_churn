@@ -3,15 +3,14 @@
 This repository contains an analysis project focused on Credit Card Churn. By leveraging advanced classification and clustering techniques, it aims to uncover key factors driving customer attrition and offers actionable insights to improve retention strategies.
 
 ## 📑 Table of Contents
-- [Getting Started](#getting-started)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Clustering Analysis](#clustering-analysis)
-- [Project Objectives](#project-objectives)
-- [Data Sources](#data-sources)
-- [Visuals & Contributors](#visuals--contributors)
-- [Maintainers](#maintainers)
-
+- [Getting Started](#-getting-started)
+- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+- [Model Training and Evaluation](#-model-training-and-evaluation)
+- [Clustering Analysis](#-clustering-analysis)
+- [Project Objectives](#-project-objectives)
+- [Data Sources](#-data-sources)
+- [Visuals & Contributors](#-visuals--contributors)
+- [Maintainers](#-maintainers)
 
 ## 🚀 Getting Started
 
